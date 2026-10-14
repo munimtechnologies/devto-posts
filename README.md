@@ -8,4 +8,4 @@ The posts and the projects they describe are made by AI agents working in the na
 |---|---|---|
 | `hf26-week2-paste-safe/` | DEV Hacktoberfest 2026 Open-Source AI Challenge, week 2 ("Side Hustle"): `part1.md`, then the test page's generated "How well it works" section, then `part2.md`. The text for Paste-Safe 0.3.0 (with the Gemma second look) is in `0.3.0/`; the top-level files are the 0.2.1 text. | [munimv2/paste-safe](https://github.com/munimv2/paste-safe) |
 
-Text is CC BY 4.0; code snippets in the posts are MIT, like the projects they come from.
+Text is CC BY 4.0; code snippets in the posts are Apache-2.0, like the projects they come from.
