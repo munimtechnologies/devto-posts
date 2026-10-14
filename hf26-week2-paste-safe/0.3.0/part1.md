@@ -27,7 +27,7 @@ What it finds:
 
 The same name keeps the same placeholder for the whole session, so a long chat stays consistent. A first name on its own ("Daniel's line") gets the placeholder of the full name it belongs to, so the AI sees one person, not two. The key (placeholder to real name) never leaves the page; you can save it as a JSON file if you want to come back tomorrow.
 
-**Who would pay for this?** Freelance writers, translators, consultants, recruiters and small agencies: anyone whose client contract has a confidentiality clause written before chat AIs existed. Demand isn't a guess here. Browser extensions in this niche already charge for it: PII Scrubber's Pro tier is $7 a month and PrivacyScrubber's is $15. Paste-Safe's open core is free and MIT-licensed. The paid side hustle would be what a small business asks for next: a team-shared always-mask list, DOCX and PDF in and out, and an extension that masks right inside the chat box.
+**Who would pay for this?** Freelance writers, translators, consultants, recruiters and small agencies: anyone whose client contract has a confidentiality clause written before chat AIs existed. Demand isn't a guess here. Browser extensions in this niche already charge for it: PII Scrubber's Pro tier is $7 a month and PrivacyScrubber's is $15. Paste-Safe's open core is free under the Apache-2.0 licence. The paid side hustle would be what a small business asks for next: a team-shared always-mask list, DOCX and PDF in and out, and an extension that masks right inside the chat box.
 
 ## Demo
 
@@ -39,7 +39,7 @@ Click **Try a sample**, then **Mask it**. The first run downloads the model (abo
 
 ## Code
 
-{% github munimv2/paste-safe %}
+{% github munimtechnologies/paste-safe %}
 
 ## How I Built It
 

@@ -6,7 +6,7 @@ Here it isn't a preference; it's the only design that works.
 
 Openness buys three more things:
 
-- **Verifiability.** "We process everything locally" is a claim. An MIT repo plus open-weight models plus a network tab you can watch is evidence. For a privacy tool, that difference is the product. The same goes for accuracy: the test set, its labels and the scoring code are all public, so the numbers above can be re-run by anyone instead of taken on trust.
+- **Verifiability.** "We process everything locally" is a claim. An Apache-2.0 repo plus open-weight models plus a network tab you can watch is evidence. For a privacy tool, that difference is the product. The same goes for accuracy: the test set, its labels and the scoring code are all public, so the numbers above can be re-run by anyone instead of taken on trust.
 - **Zero marginal cost.** Every mask runs on the user's CPU. A free tier costs nothing to serve, so the free version can stay genuinely useful instead of being a five-uses-a-day teaser.
 - **Swappable parts.** Each model is one line. A multilingual NER model, a bigger Gemma, or one tuned on legal text can drop in without touching the masking logic, and the test page will say whether it does better. That is how the Gemma second look was added in the first place.
 
@@ -14,7 +14,7 @@ Where the open approach is weaker, honestly: a 2018-era BERT trained on news mis
 
 ## Prize Categories
 
-**Gemma**: Gemma 3 270M runs in the browser tab (Transformers.js, 4-bit ONNX) as Paste-Safe's optional second look for names, and the test page measures what it adds.
+**Gemma**: Gemma 3 270M runs in the browser tab (Transformers.js, 4-bit ONNX) as Paste-Safe's optional second look for names, and the test page measures what it adds. Gemma is provided under and subject to the [Gemma Terms of Use](https://ai.google.dev/gemma/terms).
 
 ---
 
